@@ -1,0 +1,1 @@
+git config_to send email and name
